@@ -1,2 +1,2 @@
 # UAFlood
-HTTP access.log flooding
+HTTP access.log User Agent String flooding
